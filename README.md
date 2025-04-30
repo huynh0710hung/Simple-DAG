@@ -1,7 +1,11 @@
 Overview
 ========
+Simple ETL pipeline using dbt, Snowflake, docker, Astro and deploy on Airflow
 
-Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
+![image](https://github.com/user-attachments/assets/1ce3d979-4ba5-40cd-856d-c246928ee738)
+
+![image](https://github.com/user-attachments/assets/5ed6ebdf-4aa0-40b9-b84f-4e3aa4bc1a43)
+
 
 Project Contents
 ================
